@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","functions":{"api/dispatch.js":{"maxDuration":60}},"ignoreCommand":"git diff HEAD^ HEAD --quiet -- ./api ./vercel.json"}
